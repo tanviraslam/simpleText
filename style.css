@@ -1,0 +1,21 @@
+body{
+  width: 100vw;
+  height: 100vh;
+}
+
+p{
+  
+}
+
+div{
+  outline: 1px solid black;
+  width: 60%;
+  min-height: 40%;
+  margin: 0 auto;
+  padding:20px;
+}
+
+.edit{
+  outline: 1px solid black;
+  
+}

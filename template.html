@@ -1,0 +1,7 @@
+<div>
+  <p ng-transclude ng-class="{'edit':!editOn}">
+    
+  </p>
+  <button ng-show='editOn' ng-click="toggleEdit()">Edit</button>
+  <button ng-hide='editOn' ng-click="toggleEdit()">Save</button>
+</div>
